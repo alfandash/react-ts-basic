@@ -1,0 +1,5 @@
+REACT_APP_API_ENDPOINT=http://192.168.1.10:8081
+SKIP_PREFLIGHT_CHECK=true
+ENV=staging
+REACT_APP_ENV=staging
+PUBLIC_URL=https://superlender-sandbox.crowde.co
